@@ -1,0 +1,12 @@
+google-play-scraper
+psycopg2-binary
+python-dotenv
+pandas
+loguru
+schedule
+transformers
+torch
+sentencepiece
+streamlit
+plotly
+groq
